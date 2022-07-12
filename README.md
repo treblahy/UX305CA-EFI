@@ -11,6 +11,5 @@ Currently the things that doesn't work:
 * Touchpad
 
 &nbsp;
-&nbsp;
 
 Other than those above, everything is working fine.
