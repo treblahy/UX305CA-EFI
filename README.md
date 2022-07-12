@@ -3,8 +3,10 @@
 ### 4GB RAM 1600MHz LPDDR3
 ### Intel HD Graphics 515 1536MB
 
+
 Currently the things that doesn't work:
 * Things that needs bluetooth(However I can use my AirPods)
 * Touchpad
-  
+
+
 Other than those above, everything is working fine.
