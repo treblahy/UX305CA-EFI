@@ -7,7 +7,7 @@
 &nbsp;
 
 Currently the things that doesn't work:
-* Things that needs bluetooth(However I can use my AirPods)
+* Things that needs bluetooth(However I can use my AirPods, still it's really unstable)
 * Touchpad
 
 Other than those above, everything is working fine.
